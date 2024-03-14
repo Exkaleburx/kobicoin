@@ -29,7 +29,7 @@
     "@hono/zod-validator": "^0.1.9",
     "bignumber.js": "^9.1.2",
     "bun-types": "^1.0.3",
-    "hono": "^3.7.2",
+    "hono": "^4.0.0",
     "lucid-cardano": "^0.10.7",
     "noble-ed25519": "^1.2.6",
     "prettier": "^3.2.5",
