@@ -26,7 +26,7 @@
     "@babel/plugin-transform-modules-commonjs": "^7.23.0",
     "@deno/shim-deno": "~0.16.1",
     "@harmoniclabs/cbor": "^1.1.4",
-    "@hono/zod-validator": "^0.1.9",
+    "@hono/zod-validator": "^0.2.0",
     "bignumber.js": "^9.1.2",
     "bun-types": "^1.0.3",
     "hono": "^4.0.0",
