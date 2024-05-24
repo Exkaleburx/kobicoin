@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: aiken-lang/setup-aiken@v0.1.0
+      - uses: aiken-lang/setup-aiken@v1.0.2
         with:
           version: v1.0.13-alpha
       - uses: denoland/setup-deno@v1
